@@ -43,7 +43,7 @@ section {
   overflow: auto;
 }
 
-#chicken {
+#orange {
   border: 1px solid black;
   text-align: center;
   width: 30%;
@@ -57,7 +57,7 @@ section {
   background-color: #FF4500;
 }
 
-#beef {
+#red {
   border: 1px solid black;
   text-align: center;
   width: 30%;
@@ -71,7 +71,7 @@ section {
   background-color: #DC143C;
 }
 
-#sushi {
+#green {
   border: 1px solid black;
   text-align: center;
   width: 30%;
